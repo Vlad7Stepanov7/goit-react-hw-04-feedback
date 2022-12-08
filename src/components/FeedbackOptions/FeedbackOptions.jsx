@@ -1,5 +1,6 @@
 import PropTypes from 'prop-types';
 import Box from 'components/Box';
+
 const FeedbackOptions = ({ options, onLeaveFeedback }) => {
     
     return (
